@@ -5,8 +5,8 @@ import VideoSetup from "@/components/VideoSetup";
 
 export default function Home() {
   return (
-    // <MeetingExit />
+    <MeetingExit />
     // <MeetingExitDark />
-    <VideoSetup />
+    // <VideoSetup />
   );
 }
